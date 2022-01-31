@@ -1,2 +1,2 @@
-run npm i
-use test.xlsx
+run npm i;
+use test.xlsx;
